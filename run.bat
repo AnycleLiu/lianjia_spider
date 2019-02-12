@@ -1,0 +1,3 @@
+scrapy crawl lianjia_glc_deal_spider
+
+pause
